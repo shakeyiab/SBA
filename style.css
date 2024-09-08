@@ -1,0 +1,51 @@
+.navbar{
+    background-color:black
+  
+    
+}
+
+.header{
+    color: black;
+text-align: center;
+font-size: large;
+ }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  body {
+    background-image: url('hearts.jfif') ;
+    
+  }
+  .card-body {
+    border: 1px ridge black;
+    width: 300px;
+    flex-direction: row;
+   
+ }
+ 
+ .img-container img {
+    max-width: 100%;
+    height: auto;
+    
+ }
+ 
+ .card-body p, .card-body h1 {
+    margin: 8px;
+    background-color: pink;
+    
+    
+ }
+
+ 
+.container{
+    display: flex;
+   
+
+}
+ 
+ 
+
+
